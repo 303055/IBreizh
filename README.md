@@ -16,7 +16,7 @@ il manque juste l'extrudeur c'est une version modifier du L3K v2 ( prochainement
 Pour toute commande bzh303055@gmail.com ( je fournirais la decoupe du médium aux 1ers acheteurs à un prix atractifs :p )
 
 
-Je suis dispo par mail ou sur le chan irc http://webchat.freenode.net/?channels=3dframe.fr 
+Je suis dispo par mail ou sur le chan Juli3n irc http://webchat.freenode.net/?channels=3dframe.fr 
 Pour toutes questions, connecter vous et poser vos questions ( ne demander pas pour demander poser votre question :p) 
 et rester connecté !
 
