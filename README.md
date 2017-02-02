@@ -10,6 +10,10 @@ Les tiges lissent sont remplacées par des guides linéaires HIWIN MGN12C ( C pa
 
 Elle est déjà utilisée par moi ^^ et le créateur du L3K V2.5 MGN12C :) .
 
+BOM:
+
+https://docs.google.com/spreadsheets/d/1HeCgvm4_tOgQKA4ClfcSIzQhdVp9aj9GNvm6IoWe_IQ/edit?usp=sharing
+
 Tant que les stl(s) ne seront pas dispo en vente considérée là comme une 2eme imprimante.
 
 Si vous désirez la fabriquer tous les fichiers sont dispo ici.
